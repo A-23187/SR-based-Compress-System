@@ -1,0 +1,1 @@
+start ./src/ui.py > nul 2>&1
